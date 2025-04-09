@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lKvz2dtV9jQKR0D3atrnmCmCZI3wskprhpS/mzUrkoU=",
+  "Source": "BinaryActionsCalc.Api",
+  "BasePath": "_content/BinaryActionsCalc.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
